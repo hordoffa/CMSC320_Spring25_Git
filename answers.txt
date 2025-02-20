@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: I know that its used in Marketing especially advertising. Like social media platforms like tiktok creates personalized ads based on user history, gender, or what they browse.
