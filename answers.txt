@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: It keeps track of any changes to the code and allows you to have differnt branches
+
